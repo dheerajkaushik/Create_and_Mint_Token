@@ -26,7 +26,8 @@ To deploy the RUK token contract to the local Hardhat test network using Remix C
 1. Clone the repository and install its dependencies:
 
 ```sh
-git clone https://github.com/RIDAMSINHA/INTERACTING-AND-DEPLOYING-ON-LOCAL-NETWORK.git
+
+git clone https://github.com/dheerajkaushik/Create_and_Mint_Token.git
 cd INTERACTING-AND-DEPLOYING-ON-LOCAL-NETWORK
 npm install
 ```
