@@ -1,8 +1,8 @@
-# RIDAM Token (RUK) README
+#  Token (DK) README
 
 ## Introduction
 
-Welcome to the RIDAM Token (RUK) repository! This repository contains the Solidity smart contract code for the RUK token, an ERC-20 compatible token designed for various purposes. RUK tokens can be used for transactions, rewards, and other activities within an ecosystem.
+Welcome to the Token (DK) README repository! This repository contains the Solidity smart contract code for the RUK token, an ERC-20 compatible token designed for various purposes. RUK tokens can be used for transactions, rewards, and other activities within an ecosystem.
 
 This README file provides an overview of the RUK token contract and includes instructions on how to deploy the contract to the local Hardhat test network using Remix Connect Localhost and how to interact with it using Remix with Hardhat provider.
 
@@ -10,8 +10,8 @@ This README file provides an overview of the RUK token contract and includes ins
 
 The `Token.sol` file contains the source code for the RUK token contract. Here are the key details of the contract:
 
-- Token Name: RIDAM Token
-- Token Symbol: RUK
+- Token Name: Dheeraj Token
+- Token Symbol: DK
 - Decimals: 18
 - Total Supply: 0 (initially)
 
@@ -100,11 +100,7 @@ After deploying the RUK token contract to the local Hardhat test network, you ca
 
 ## Authors
 
-RIDAM ADITYA SINHA
-
-https://www.linkedin.com/in/ridam-sinha-188133210/
-
-ridamsinha20@gmail.com
+Dheeraj kaushik
 
 ## License
 
