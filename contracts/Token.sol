@@ -22,8 +22,8 @@ contract Token {
     }
 
     constructor() {
-        name = "RIDAM Token";
-        symbol = "RUK";
+        name = "Dheeraj Token";
+        symbol = "DK";
         decimals = 18;
         totalSupply = 0;
         owner = msg.sender;
